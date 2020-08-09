@@ -1,5 +1,16 @@
 # calculator
-this is a pretty basic and simple calculator project that i made so that i can implement some of the thing that i learn while learning python
+This repositery was made so I can pratice my programming, softwar enginering and softwar architecture.
+It was my first attempted at gui dev with python i use the tkinker library for it.
 
-## to keep in mind
-the code of the project is pretty bad i know but this is my first project and i try to do my best. the are some problem that i will try to solve during this week
+# about the repositery
+The problem and feature of the project
+
+1. The projec is the implementation of a simple calulator.
+  1. when you finish a window will pop up with the response
+  
+ some of the problem of the project that i am trying to solve
+ - [ ] 
+
+
+
+> I understand that my code is a little bit complicated to understand I am trying to implement Object oriented programming with this project
