@@ -26,4 +26,4 @@ The problem and feature of the project
 
 > This is a really basic implementation of a calculator.
 
-# !! important this project is paused 
+<h4 align = 'center'> :no_entry_sign: This project is currently on hold :no_entry_sign: </h4>
